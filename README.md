@@ -8,6 +8,6 @@
 ## ForLove
 
 - [First-Anniversary-of-Love](https://github.com/Ain-Crad/First-Anniversary-of-Love?tab=readme-ov-file) - A website for my girlfriend to memorize our first anniversary of love.
-- [Christmas_gift]([https://github.com/Ain-Crad/First-Anniversary-of-Love?tab=readme-ov-file](https://github.com/z6135/Christmas_gift)) - no describe
+- [Christmas_gift](https://github.com/z6135/Christmas_gift) - no describe
 
 
