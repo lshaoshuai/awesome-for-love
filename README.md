@@ -1,4 +1,4 @@
-# <img src="https://github.com/lshaoshuai/awesome-forlove/Love_Heart_symbol.svg.png" width="400" alt="awesome windows"> 
+# <img src="https://github.com/lshaoshuai/awesome-forlove/blob/main/Love_Heart_symbol.svg.png" width="400" alt="awesome windows"> 
 # awesome-forlove
 
 看看程序员是怎么谈恋爱的
